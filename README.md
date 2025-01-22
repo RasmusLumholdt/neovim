@@ -89,7 +89,7 @@ git clone https://github.com/dam9000/kickstart.nvim.git "%localappdata%\nvim"
 If you're using `powershell.exe`
 
 ```
-git clone https://github.com/dam9000/kickstart.nvim.git "${env:LOCALAPPDATA}\nvim"
+git clone https://github.com/RasmusLumholdt/neovim.git "${env:LOCALAPPDATA}\nvim"
 ```
 
 </details>
